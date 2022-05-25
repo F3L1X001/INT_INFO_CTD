@@ -1,2 +1,3 @@
-soy una manzana, pero quiero ser pera.
-Tambien me gusta el color verde.
+Soy una manzana, pero quiero ser pera.
+Este archivo fue creado por mi, fede.
+
